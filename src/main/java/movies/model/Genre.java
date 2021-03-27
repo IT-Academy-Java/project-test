@@ -1,2 +1,5 @@
-package movies.model;public class Genre {
+package movies.model;
+
+public enum Genre {
+  ACTION, COMEDY, DRAMA, HORROR, THRILLER
 }
