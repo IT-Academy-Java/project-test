@@ -4,4 +4,4 @@
 - Java
 - Maven
   -JUnit
-- [Mockito](https://www.npmjs.com/package/uuid)
+- [Mockito](https://site.mockito.org/)
