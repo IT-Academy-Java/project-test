@@ -3,5 +3,5 @@
 ## Technology Stack
 - Java
 - Maven
-  -JUnit
+- JUnit
 - [Mockito](https://site.mockito.org/)
